@@ -1,5 +1,10 @@
-### Hi there 👋
+### Connor Ludwig
 
+Hello, I'm a Software Engineer at John Deere working on Embedded Licensing Enablement, focused on delivering a seamless customer experience for new Embedded Software purchases.
+
+I live in Chicago, Illinois and outside of work love diving into a good book, keeping up with my favorite teams, and searching for the best food around.
+
+I'm passionate about using technology to overcome key pain points for customers. I'm always learning new tools and tech to improve my workstyle and help deliver a better product. 
 <!--
 **cjlludwig/cjlludwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
