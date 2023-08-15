@@ -23,7 +23,7 @@
 I'm a Software Engineer at John Deere working on Embedded Licensing Enablement, focused on delivering a secure, seamless customer experience for new Embedded Software purchases.<br>
 <div align="center">:tractor: :computer: :lock:</div>
 <br>
-I live in Chicago, Illinois but am originally from rural Iowa. Outside of work love diving into a good book, keeping up with my favorite teams, and searching for the best food around.<br>
+I live in Chicago, Illinois but am originally from rural Iowa. Outside of work I love diving into a good book, keeping up with my favorite teams, and searching for the best food around.<br>
 <div align="center">:cityscape: :corn: :books: :football: :bear: :basketball: :tornado: :pizza: :ramen:</div>
 <br>
 I'm passionate about using technology to overcome key pain points for customers. I'm always learning new tools and tech to improve my workstyle and help deliver a better product. 
