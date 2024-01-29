@@ -20,8 +20,8 @@
 </div>
 
 <h3>Hello :wave:</h3>
-I'm a seasoned Software Engineer at John Deere working on Embedded Licensing Enablement, focused on delivering a secure, seamless customer experience for new Embedded Software purchases.<br>
-<div align="center">:tractor: :computer: :lock:</div>
+I'm a seasoned Software Engineer with a wide range of professional experience. From enabling secure embedded software purchases to supporting a petabyte-scale data lake platform, I've embraced each new challenge to learn new technologies and deliver a great customer experience.<br>
+<div align="center">:tractor: :computer: :lock: :satellite:</div>
 <br>
 I live in Chicago, Illinois but am originally from rural Iowa. Outside of work I love diving into a good book, keeping up with my favorite teams, and searching for the best food around.<br>
 <div align="center">:cityscape: :corn: :books: :football: :basketball: :ramen:</div>
