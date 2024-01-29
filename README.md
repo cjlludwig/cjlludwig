@@ -31,7 +31,7 @@ I'm passionate about using technology to overcome key pain points for customers.
 
 ### Key Projects
 
-🛰️ **Distributed Licensing at the Edge (Current):** I've extended embedded licensing platforms to encompass all connected controllers, optimizing security and file sizes.
+🛰️ **Distributed Licensing at the Edge:** I've extended embedded licensing platforms to encompass all connected controllers, optimizing security and file sizes.
 
 💼 **Recurring Revenue Licensing Service:** I created a novel licensing API platform enabling seamless ordering of embedded technologies, featuring IoT license delivery, enhanced data collection, and expanded product marketing options.
 
