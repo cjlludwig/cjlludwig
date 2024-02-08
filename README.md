@@ -11,9 +11,9 @@
   <a href="https://cjlludwig.github.io/">
     <img src="https://img.shields.io/badge/Personal_Site-gray?logo=githubpages&style=for-the-badge"/>
   </a>
-  <a href="mailto:cjlludwig@gmail.com">
+<!--   <a href="mailto:cjlludwig@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge"/>
-  </a>
+  </a> -->
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cjlludwig&style=flat-square&color=green"/>
